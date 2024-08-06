@@ -3,17 +3,13 @@
 
 
 /* Elementos com o ID "título" */
-# título {
-    família de fontes : sans-serif;
-    cor :  # 380B61 ;
-    margem esquerda :  7 % ;
-}
+# título:
+   "ESTOU EM MEU PROCESSO DE ESTUDO HTML,CSS,FRONT-END".
+
 
 /* Elementos com o ID "subtítulo" */
 # legenda {
-    família de fontes : sans-serif;
-    cor :  # 380B61 ;
-    margem esquerda :  10 % ;
+    
 }
 
 # verificar {
