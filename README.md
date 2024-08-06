@@ -1,33 +1,6 @@
-Luiz Fernando 
-/
-Formulário
-
-Código
-Solicitações de pull
-38
-Ações
-Projetos
-Segurança
-Percepções
-Comprometer-se
-página de formulário com HTML e CSS
- mestre
-@uiz_harrow
-Luifernando comprometido em 06 de agosto de 2024 
-0 pais
-cometer fd9fc4c
+# OLÁ SOU O (LUIZ DEV👋)
  
-Exibindo 2 arquivos alterados com 234 adições e 0 exclusões .
-Filtrar arquivos alterados
- 122 alterações: 122 adições e 0 exclusões122 
-formulario.css
-Número da linha do arquivo original	Número da linha de diferença	Mudança de linha diferencial
-@@ -0,0 +1,122 @@
-/* Todos os elementos da página */
-* {
-    margem :  0 ;
-    preenchimento :  0 ;
-}
+
 
 /* Elementos com o ID "título" */
 # título {
@@ -68,27 +41,7 @@ entrada ,  selecionar ,  textarea ,  botão {
     família de fontes : sans-serif;
     tamanho da fonte :  1 em ;
     cor :  # 59429d ;
-    raio da borda :  5 px ;
-}
-
-/* Elementos de classe "grupo" nos estados das pseudoclasses "before" e "after" */
-. grupo : antes , . grupo : depois {
-    exibição : tabela;
-}
-
-/* Elementos de classe "grupo" no estado da pseudoclasse "after" */
-. grupo : depois {
-    limpar ambos ;
-}
-
-/* Elementos de classe "campo" */
-. campo {
-    margem-inferior :  1 em ;
-}
-
-/* Elementos de classe "campo" da tag <label> */
-. rótulo do campo  {
-    margem inferior :  0,2 em ;
+    raio da borda :  5 
     cor :  # 59429d ;
     exibir : bloco;
 }
@@ -102,9 +55,7 @@ fieldset . grupo . campo {
 /* Elementos de classe "campo" das tags <input> com atributo text e email, da tag <select> e da tag <textarea>*/
 . campo  input [ tipo = "texto" ] , . campo  input [ tipo = "email" ] , . campo  select , . campo  textarea {
     preenchimento :  0,2 em ;
-    borda :  1 px sólido # 59429d ;
-    caixa-sombra :  2 px  2 px  2 px  rgba ( 0 , 0 , 0 , 0.2 );
-    exibir : bloco;
+    borda 
 }
 
 /* Elementos de classe "campo" da tag <select> e <option>*/
