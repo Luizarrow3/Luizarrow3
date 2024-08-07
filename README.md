@@ -8,7 +8,13 @@
  for deploying static content to GitHub Pages
 name: Deploy static content to Pages
 
-on:
+echo "# Luizahhor" >> README.md 
+git init 
+git add README.md 
+git commit -m "primeiro commit" 
+git branch -M main 
+git remote add origin https://github.com/Luizarrow3/Luizahhor.git
+ git push -u origin main
   # Runs on pushes targeting the default branch
   push:
     branches: ["main"]
