@@ -8,8 +8,7 @@
  
   
 <div align="center">
-<h1>corujao/h1>
-div center ("botao")
+<h1>/h1>
 <a href="https://www.emojione.com/emoji/1f989">
   <img
     height="80"
