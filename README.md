@@ -16,3 +16,10 @@ Designer de UI/UX apaixonado por criar interfaces intuitivas e atraentes.
 
 * ![css](https://img.shields.io/badge/css-F7DC6F?style=for-the-css&logo=sketch&logoColor=black)
 * ![HTML](https://img.shields.io/badge/html-F24E1E?style=for-the-badge&logo=html&logoColor=white)
+
+
+
+
+
+
+https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svgSite
