@@ -19,4 +19,19 @@ Designer de UI/UX apaixonado por criar interfaces intuitivas e atraentes.
 
 
 
-![radical](https://github-readme-stats.vercel.app/api/radical?username=seu_usuario&theme=dark&hide_border=true&locale=pt-br)
+<!-- GitHub Readme Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&theme=radical&count_private=true&hide_border=true&locale=pt-br" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu_usuario&layout=compact&theme=radical&hide_border=true&locale=pt-br" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=seu_usuario&theme=radical&hide_border=true&locale=pt-br" alt="Wakatime" />
+</div>
+
+<!-- GitHub Trophy -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=seu_usuario&theme=radical&no-frame=true&no-bg=true" alt="GitHub Trophy" />
+</div>
+
+<!-- GitHub Snake Animation -->
+<div align="center">
+  ![GitHub Snake Animation](https://github.com/seu_usuario/seu_usuario/blob/output/github-contribution-grid-snake.svg)
+</div>
