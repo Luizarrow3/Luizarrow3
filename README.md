@@ -18,7 +18,4 @@ Designer de UI/UX apaixonado por criar interfaces intuitivas e atraentes.
 * ![HTML](https://img.shields.io/badge/html-F24E1E?style=for-the-badge&logo=html&logoColor=white)
 
 
-
-### Yearly Contributions
-
-![Yearly Contributions](https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&theme=dark&count_private=true&hide_border=true&include_all_commits=true&locale=pt-br)
+![Estrelas](https://github-readme-stats.vercel.app/api/stars?username=seu_usuario&theme=dark&hide_border=true&locale=pt-br)
