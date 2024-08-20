@@ -20,3 +20,9 @@ Desenvolvedor [FULLSTACK] com [3] meses de experiência em [HTML,CSS, JAVASCRIPT
 ### Meu humor
 
 ![GIF de um gato programador](https://github.com/seu_usuario/seu_repositorio/blob/main/imagens/gato_programador.gif)
+
+### Estatísticas
+
+* ![Repositórios](https://img.shields.io/badge/Repositórios-123-ff69b4)
+* ![Commits](https://img.shields.io/badge/Commits-456-ff69b4)
+* ![Stars](https://img.shields.io/badge/Stars-789-ff69b4)
