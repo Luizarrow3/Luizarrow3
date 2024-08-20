@@ -12,17 +12,17 @@ Desenvolvedor [FULLSTACK] com [3] meses de experiência em [HTML,CSS, JAVASCRIPT
 * ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 * ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 * ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+# Criando experiências visuais incríveis
 
-### Meu trabalho
+Designer de UI/UX apaixonado por criar interfaces intuitivas e atraentes.
 
-![Meu projeto mais recente](https://github.com/seu_usuario/seu_repositorio/blob/main/imagens/projeto.png)
+### Ferramentas
 
-### Meu humor
+* ![Sketch](https://img.shields.io/badge/Sketch-F7DC6F?style=for-the-badge&logo=sketch&logoColor=black)
+* ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+* ![Adobe XD](https://img.shields.io/badge/Adobe XD-FFC107?style=for-the-badge&logo=adobe-xd&logoColor=white)
 
-![GIF de um gato programador](https://github.com/seu_usuario/seu_repositorio/blob/main/imagens/gato_programador.gif)
+### Projetos
 
-### Estatísticas
-
-* ![Repositórios](https://img.shields.io/badge/Repositórios-123-ff69b4)
-* ![Commits](https://img.shields.io/badge/Commits-456-ff69b4)
-* ![Stars](https://img.shields.io/badge/Stars-789-ff69b4)
+* [Meu projeto de design de UI](https://github.com/seu_usuario/seu_repositorio)
+* [Meu projeto de design de UX](https://github.com/seu_usuario/seu_repositorio)
