@@ -1,12 +1,3 @@
-@@ -1,6 +1,12 @@
-exportar  padrão  {
-  clearMocks : verdadeiro ,
-  transformar : { } ,
-  testEnvironment : "jsdom" ,
-  coverageProvider : "v8" ,
-  testPathIgnorePatterns : [ "<rootDir>/node_modules/" ,  "<rootDir>/tests/e2e/" ] ,
-  modulePathIgnorePatterns : [ "<rootDir>/node_modules/" ,  "<rootDir>/tests/e2e/" ] ,
-  coveragePathIgnorePatterns : [
-    "<rootDir>/node_modules/" ,
-    "<rootDir>/tests/E2E/" ,
-  ] ,
+# Olá, eu sou [Luiz Fernando]!
+
+Desenvolvedor [FULLSTACK] com [3] meses de experiência em [HTML,CSS, JAVASCRIPT ]. Eu amo [AMO A ÁREA SEMPRE BUSCANDO APRENDER CADA DIA SOBRE TECNOLOGIA a] e estou sempre procurando por novos desafios.
