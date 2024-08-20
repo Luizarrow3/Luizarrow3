@@ -19,3 +19,6 @@ Designer de UI/UX apaixonado por criar interfaces intuitivas e atraentes.
 
 
 
+### Yearly Contributions
+
+![Yearly Contributions](https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&theme=dark&count_private=true&hide_border=true&include_all_commits=true&locale=pt-br)
