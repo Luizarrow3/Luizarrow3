@@ -22,4 +22,3 @@ Designer de UI/UX apaixonado por criar interfaces intuitivas e atraentes.
 
 
 
-https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svgSite
