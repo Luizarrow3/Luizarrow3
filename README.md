@@ -22,7 +22,11 @@ Designer de UI/UX apaixonado por criar interfaces intuitivas e atraentes.
 * ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 * ![Adobe XD](https://img.shields.io/badge/Adobe XD-FFC107?style=for-the-badge&logo=adobe-xd&logoColor=white)
 
-### Projetos
 
-* [Meu projeto de design de UI](https://github.com/seu_usuario/seu_repositorio)
-* [Meu projeto de design de UX](https://github.com/seu_usuario/seu_repositorio)
+### Contributions
+
+![Contributions](https://github.com/seu_usuario/seu_repositorio/blob/main/imagens/contributions.png)
+
+### Most Active Repositories
+
+![Most Active Repositories](https://github.com/seu_usuario/seu_repositorio/blob/main/imagens/most_active_repos.png)
