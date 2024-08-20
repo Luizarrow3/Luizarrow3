@@ -19,6 +19,6 @@ Designer de UI/UX apaixonado por criar interfaces intuitivas e atraentes.
 
 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev.luiz&theme=dark&show_icons=true)
 
 
