@@ -60,59 +60,8 @@
 
 <div align="center">
 
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Setup de Guitarra</title>
-  <style>
-    /* Estilo opcional para melhorar a aparência */
-    body {
-      font-family: Arial, sans-serif;
-      margin: 20px;
-    }
-    table {
-      border-collapse: collapse;
-      width: 100%;
-    }
-    th, td {
-      border: 1px solid #ddd;
-      padding: 8px;
-    }
-    tr:nth-child(even) {
-      background-color: #f2f2f2;
-    }
-  </style>
-</head>
-<body>
-  <h2>Setup de Guitarra</h2>
 
-  <h3>Guitarras</h3>
-  <table border="1">
-    <tr>
-      <th>Guitarra</th>
-      <th>Cordas</th>
-      <th>Captação</th>
-    </tr>
-    <tr>
-      <td>Ibanez Custom 7-cordas (preta)</td>
-      <td>Ernie Ball Super Slinky 7-cordas</td>
-      <td>DiMarzio Sonic (ponte)</td>
-    </tr>
-    </table>
-
-  <h3>Pedais</h3>
-  <ul>
-    <li>Ernie Ball Volume Pedal</li>
-    <li>Source Audio Soundblox Pro Multiwave Distortion</li>
-    </ul>
-
-  <h3>Amplificador</h3>
-  <p>Hughes & Kettner Coreblade Head com Hughes & Kettner CC 212 2x12 Cabinet</p>
-
-  </body>
-</html>
-
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/luizarrow/luizarrow/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
