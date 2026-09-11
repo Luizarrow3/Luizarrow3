@@ -1,6 +1,5 @@
-<div align="center">
-  <!-- Imagem de Capa / Header Banner -->
-  <img width="100%" alt="Header Banner" src="https://github.com/user-attachments/assets/b768ec83-b626-4885-ae12-4217f24536ea" />
+<img width="1408" height="768" alt="WhatsApp Image 2026-09-11 at 09 04 28" src="https://github.com/user-attachments/assets/1d169993-a229-483b-b855-66936432a265" />
+
 
   <br /><br />
 
