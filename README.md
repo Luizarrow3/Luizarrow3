@@ -50,14 +50,7 @@ Especializado na criação de estratégias robustas para validação de contrato
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luizarrow3&show_icons=true&theme=dark" alt="Luizarrow3 GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizarrow3&layout=compact&theme=dark" alt="Top Languages" width="48%" />
-</p>
-
----
 
 📫 **Como me encontrar:**
 - Sinta-se à vontade para explorar meus repositórios de testes e automação!
